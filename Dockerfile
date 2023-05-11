@@ -2,7 +2,7 @@
 FROM node:alpine
 
 #RUN git clone https://github.com/mcollina/mosca.git
-WORKDIR /
+WORKDIR /aedes
 
 # install all needed packages
 #RUN npm install 
